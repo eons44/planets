@@ -1,0 +1,7 @@
+#comments work here
+
+#ignore key files
+*.keys
+
+#ignore results
+results/
